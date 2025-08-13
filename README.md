@@ -79,5 +79,3 @@ This analysis highlights the power of **SQL** in transforming raw data into valu
 - Improve menu offerings
 - Optimize market strategies
 - Support data-driven growth
-
----
